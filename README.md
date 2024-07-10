@@ -1,1 +1,1 @@
-# zadanie_1_netpc
+# zadania_netpc

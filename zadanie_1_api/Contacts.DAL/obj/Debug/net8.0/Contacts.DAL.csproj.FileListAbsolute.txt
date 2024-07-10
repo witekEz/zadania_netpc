@@ -1,0 +1,17 @@
+C:\Users\MrRobot\Desktop\.NET\Zadanie_1\Contacts.DAL\bin\Debug\net8.0\Contacts.DAL.deps.json
+C:\Users\MrRobot\Desktop\.NET\Zadanie_1\Contacts.DAL\bin\Debug\net8.0\Contacts.DAL.runtimeconfig.json
+C:\Users\MrRobot\Desktop\.NET\Zadanie_1\Contacts.DAL\bin\Debug\net8.0\Contacts.DAL.dll
+C:\Users\MrRobot\Desktop\.NET\Zadanie_1\Contacts.DAL\bin\Debug\net8.0\Contacts.DAL.pdb
+C:\Users\MrRobot\Desktop\.NET\Zadanie_1\Contacts.DAL\bin\Debug\net8.0\Contacts.Models.dll
+C:\Users\MrRobot\Desktop\.NET\Zadanie_1\Contacts.DAL\bin\Debug\net8.0\Contacts.Models.pdb
+C:\Users\MrRobot\Desktop\.NET\Zadanie_1\Contacts.DAL\obj\Debug\net8.0\Contacts.DAL.csproj.AssemblyReference.cache
+C:\Users\MrRobot\Desktop\.NET\Zadanie_1\Contacts.DAL\obj\Debug\net8.0\Contacts.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MrRobot\Desktop\.NET\Zadanie_1\Contacts.DAL\obj\Debug\net8.0\Contacts.DAL.AssemblyInfoInputs.cache
+C:\Users\MrRobot\Desktop\.NET\Zadanie_1\Contacts.DAL\obj\Debug\net8.0\Contacts.DAL.AssemblyInfo.cs
+C:\Users\MrRobot\Desktop\.NET\Zadanie_1\Contacts.DAL\obj\Debug\net8.0\Contacts.DAL.csproj.CoreCompileInputs.cache
+C:\Users\MrRobot\Desktop\.NET\Zadanie_1\Contacts.DAL\obj\Debug\net8.0\Contacts.DAL.csproj.CopyComplete
+C:\Users\MrRobot\Desktop\.NET\Zadanie_1\Contacts.DAL\obj\Debug\net8.0\Contacts.DAL.dll
+C:\Users\MrRobot\Desktop\.NET\Zadanie_1\Contacts.DAL\obj\Debug\net8.0\refint\Contacts.DAL.dll
+C:\Users\MrRobot\Desktop\.NET\Zadanie_1\Contacts.DAL\obj\Debug\net8.0\Contacts.DAL.pdb
+C:\Users\MrRobot\Desktop\.NET\Zadanie_1\Contacts.DAL\obj\Debug\net8.0\Contacts.DAL.genruntimeconfig.cache
+C:\Users\MrRobot\Desktop\.NET\Zadanie_1\Contacts.DAL\obj\Debug\net8.0\ref\Contacts.DAL.dll

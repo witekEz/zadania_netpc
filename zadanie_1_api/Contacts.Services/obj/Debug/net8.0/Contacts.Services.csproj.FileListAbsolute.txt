@@ -1,0 +1,17 @@
+C:\Users\MrRobot\Desktop\.NET\Zadanie_1\Contacts.Services\bin\Debug\net8.0\Contacts.Services.deps.json
+C:\Users\MrRobot\Desktop\.NET\Zadanie_1\Contacts.Services\bin\Debug\net8.0\Contacts.Services.dll
+C:\Users\MrRobot\Desktop\.NET\Zadanie_1\Contacts.Services\bin\Debug\net8.0\Contacts.Services.pdb
+C:\Users\MrRobot\Desktop\.NET\Zadanie_1\Contacts.Services\obj\Debug\net8.0\Contacts.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MrRobot\Desktop\.NET\Zadanie_1\Contacts.Services\obj\Debug\net8.0\Contacts.Services.AssemblyInfoInputs.cache
+C:\Users\MrRobot\Desktop\.NET\Zadanie_1\Contacts.Services\obj\Debug\net8.0\Contacts.Services.AssemblyInfo.cs
+C:\Users\MrRobot\Desktop\.NET\Zadanie_1\Contacts.Services\obj\Debug\net8.0\Contacts.Services.csproj.CoreCompileInputs.cache
+C:\Users\MrRobot\Desktop\.NET\Zadanie_1\Contacts.Services\obj\Debug\net8.0\Contacts.Services.dll
+C:\Users\MrRobot\Desktop\.NET\Zadanie_1\Contacts.Services\obj\Debug\net8.0\refint\Contacts.Services.dll
+C:\Users\MrRobot\Desktop\.NET\Zadanie_1\Contacts.Services\obj\Debug\net8.0\Contacts.Services.pdb
+C:\Users\MrRobot\Desktop\.NET\Zadanie_1\Contacts.Services\obj\Debug\net8.0\ref\Contacts.Services.dll
+C:\Users\MrRobot\Desktop\.NET\Zadanie_1\Contacts.Services\bin\Debug\net8.0\Contacts.DAL.dll
+C:\Users\MrRobot\Desktop\.NET\Zadanie_1\Contacts.Services\bin\Debug\net8.0\Contacts.Models.dll
+C:\Users\MrRobot\Desktop\.NET\Zadanie_1\Contacts.Services\bin\Debug\net8.0\Contacts.DAL.pdb
+C:\Users\MrRobot\Desktop\.NET\Zadanie_1\Contacts.Services\bin\Debug\net8.0\Contacts.Models.pdb
+C:\Users\MrRobot\Desktop\.NET\Zadanie_1\Contacts.Services\obj\Debug\net8.0\Contacts.Services.csproj.AssemblyReference.cache
+C:\Users\MrRobot\Desktop\.NET\Zadanie_1\Contacts.Services\obj\Debug\net8.0\Contacts.Services.csproj.CopyComplete
